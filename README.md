@@ -41,6 +41,8 @@ The deterministic path has 5 known inaccuracies on the test dataset. All 5 are c
 
 ## How to Run
 
+**Note:** The `emails/` test data folder is not included in this repository. To run the system, create an `emails/` directory and add your own email .txt files.
+
 ### Requirements
 
 - Python 3.10+
