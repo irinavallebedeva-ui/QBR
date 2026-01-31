@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Generated outputs
+report.md
+debug.json
+
+# API keys (never commit these)
+.env
+*.key
+secrets.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
